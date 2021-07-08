@@ -42,7 +42,7 @@ const NewsFortnite = () => {
                 title="Noticias"
                 subtitle="Entérate de las últimas noticias y novedades de la temporada"
             />
-            <Container as="main" fluid className="text-center" data-testid="news-fortnite">
+            <Container as="main" fluid className="text-center mb-5" data-testid="news-fortnite">
                 {
                     showAlert ? 
                         <AlertInfoError 
