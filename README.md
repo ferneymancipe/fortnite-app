@@ -6,7 +6,7 @@
 
 ## General Info
 
-Fortnite Pocket Guide is an application that allows you to check the latest news about the game, check the reward items for the current season and allows you to check all active missions and missions that will soon be activated for the game. It is a helpful tool that every Fortnite player should have on hand.
+Fortnite Pocket Guide is an application that allows you to check the latest news about the game, check the reward items for the current season and allows you to check all active missions and missions that will soon be activated for the game. It is a helpful tool that every Fortnite player would love.
 
 ## Technologies
 
